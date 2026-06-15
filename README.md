@@ -74,4 +74,3 @@ Stores ticket purchase transactions.
 
 ---
 
-# 🔗 Database Relationships (ERD)
